@@ -8,6 +8,9 @@ I applied the score to predict how well would Jeremy Lin do in NBA now based on 
 # Word Cloud 
 I used text analytics to monitor how did people comment on him recently on Twitter in an aim to compare Jeremy Lin with current players. 
 
+# Word Cloud V2
+This file is built upon on the initial Word Cloud file where I added some aditional analysis on, including location data and a comprehensive sentiment analysis.
+
 # data_preparation 
 This file builds the foundation basically for my final project to have the data ready to be examined in jyputer notebook. 
 
